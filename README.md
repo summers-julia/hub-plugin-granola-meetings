@@ -15,7 +15,14 @@ plain markdown files, one per meeting.
    The plugin holds no keys — everyone signs in with their own account.
 4. The agent proposes a pull schedule itself (you pick the day and hour) and sets it after your "yes".
 
-Without the hub, in Claude Code: `/plugin install granola-meetings --marketplace summers-julia/hub-plugin-granola-meetings`.
+Without the hub, in Claude Code:
+
+```
+claude plugin marketplace add summers-julia/hub-plugin-granola-meetings
+claude plugin install granola-meetings@granola-meetings
+```
+
+Then run `/mcp` in Claude Code and sign in to `granola`.
 
 ## Skills
 
