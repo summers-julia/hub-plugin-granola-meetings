@@ -1,0 +1,9 @@
+{
+ "name": "granola-meetings",
+ "icon": "icon.svg",
+ "description": "Meetings agent for Granola: weekly pulls meeting notes into an archive on disk, answers what was decided and who promised what, preps you for calls and hands agreements to the sessions that own the topic",
+ "why": "Free Granola keeps notes for 30 days only, and promises from meetings get lost: the archive stays with you and nothing promised is forgotten",
+ "version": "0.1.0",
+ "hub": "^1.14",
+ "skills": true
+}

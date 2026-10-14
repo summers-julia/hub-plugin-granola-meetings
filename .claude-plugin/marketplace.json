@@ -1,0 +1,17 @@
+{
+ "name": "granola-meetings",
+ "owner": {
+  "name": "summers-julia"
+ },
+ "plugins": [
+  {
+   "name": "granola-meetings",
+   "source": "./plugins/granola-meetings",
+   "description": "Granola meetings: notes archive, who promised what, call prep, handing agreements to the right session",
+   "keywords": [
+    "risk:owner-data"
+   ]
+  }
+ ],
+ "description": "Granola meetings for Agents Hub and Claude Code"
+}

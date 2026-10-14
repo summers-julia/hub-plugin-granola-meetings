@@ -1,0 +1,12 @@
+{
+ "name": "granola-meetings",
+ "version": "0.1.0",
+ "description": "Granola meetings: notes archive, who promised what, call prep, handing agreements to the right session",
+ "keywords": [
+  "risk:owner-data"
+ ],
+ "author": {
+  "name": "summers-julia",
+  "url": "https://github.com/summers-julia"
+ }
+}
